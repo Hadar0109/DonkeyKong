@@ -1,6 +1,8 @@
 Donkey Kong Console Game (C++ Project)
 
-This C++ console game is a recreation of the classic "Donkey Kong" arcade game. The game is written using Object-Oriented Programming (OOP) principles. The player controls Mario, who must avoid ghosts and barrels thrown by Donkey Kong, climb ladders, and rescue Pauline. It is built for Windows using Visual Studio, utilizing functions like gotoxy, _kbhit, _getch, and Sleep.
+This C++ console game is a recreation of the classic "Donkey Kong" arcade game. 
+The game is written using Object-Oriented Programming (OOP) principles. 
+The player controls Mario, who must avoid ghosts and barrels thrown by Donkey Kong, climb ladders, and rescue Pauline. It is built for Windows using Visual Studio, utilizing functions like gotoxy, _kbhit, _getch, and Sleep.
 
 Game Highlights:
 Controls: a, d, w, x, s for movement of Mario, ESC to pause.
